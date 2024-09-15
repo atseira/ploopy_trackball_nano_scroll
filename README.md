@@ -1,4 +1,6 @@
 # ploopy_trackball_nano_scroll
+**Disclaimer:** These instructions were composed by Llama 3.1, a machine learning model, and may contain inaccuracies. Additionally, flashing hardware carries inherent risks, and this guide does not guarantee any results. It is the user's sole responsibility to ensure the safety and functionality of their own hardware.
+
 hex file and keymap.c to make ploopy nano do drag scroll when num lock is on
 
 ## Installation
